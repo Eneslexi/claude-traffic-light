@@ -1,0 +1,4 @@
+# local state (never distribute)
+traffic_lights/
+traffic_light_pos.txt
+*.log
