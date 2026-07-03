@@ -14,7 +14,7 @@ badges, one flips to yellow + the chime plays. End on the one-line install comma
 > — across ALL your tabs, always on top, with a chime when one needs you.
 >
 > Free + open source. One command to install 👇
-> github.com/YOUR_USERNAME/claude-traffic-light
+> github.com/Eneslexi/claude-traffic-light
 
 (Reply-to-self with the repo link + the GIF if it isn't in the main tweet.)
 
@@ -28,7 +28,7 @@ badges, one flips to yellow + the chime plays. End on the one-line install comma
 > Built a tiny traffic light that shows every tab's state at a glance. 🟢🟡🔴
 > Open source, installs in one command, Windows.
 >
-> github.com/YOUR_USERNAME/claude-traffic-light
+> github.com/Eneslexi/claude-traffic-light
 
 ---
 
@@ -52,7 +52,7 @@ badges, one flips to yellow + the chime plays. End on the one-line install comma
 ---
 
 ## Before posting
-- [ ] Replace YOUR_USERNAME in README + tweets with your GitHub handle
+- [ ] Replace Eneslexi in README + tweets with your GitHub handle
 - [ ] Record docs/demo.gif (3 tabs, lights + chime)
 - [ ] Push repo to GitHub (public)
 - [ ] Turkish version of the tweet for Instagram if you're cross-posting

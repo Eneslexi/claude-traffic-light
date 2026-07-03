@@ -25,7 +25,7 @@ And it's not just a light:
 **Windows** (PowerShell):
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/claude-traffic-light.git
+git clone https://github.com/Eneslexi/claude-traffic-light.git
 cd claude-traffic-light
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
